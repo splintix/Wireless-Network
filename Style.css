@@ -1,0 +1,23 @@
+nav{
+  margin: -8px -16px -8px -16px;
+  font-size: 16px;
+  display: block;
+  text-align: center;
+  background-color: black;
+}
+
+nav > a{
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 20px 10px 20px 10px;
+}
+nav a:hover {
+  background-color: #4A7C76 ;
+}
+
+p
+{
+  color: white;
+  padding-top: 10px;
+}
